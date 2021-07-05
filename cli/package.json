@@ -27,7 +27,7 @@
   "dependencies": {
     "execa": "^1.0.0",
     "get-port": "^4.1.0",
-    "koa": "^2.7.0",
+    "koa": "^2.13.1",
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
     "open": "^0.0.5",
