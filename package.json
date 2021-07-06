@@ -6,7 +6,7 @@
   "dependencies": {
     "@craco/craco": "^3.5.0",
     "diff": "^4.0.1",
-    "js-base64": "^2.5.1",
+    "js-base64": "^2.6.4",
     "netlify-auth-providers": "^1.0.0-alpha5",
     "opencollective-postinstall": "^2.0.2",
     "prismjs": "^1.15.0",
