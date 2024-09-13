@@ -28,7 +28,7 @@
     "execa": "^1.0.0",
     "get-port": "^4.1.0",
     "koa": "^2.7.0",
-    "koa-router": "^7.4.0",
+    "koa-router": "^13.0.1",
     "koa-static": "^5.0.0",
     "open": "^0.0.5",
     "opencollective-postinstall": "^2.0.2",
